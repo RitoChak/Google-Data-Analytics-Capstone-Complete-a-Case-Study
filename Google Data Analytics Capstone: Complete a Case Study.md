@@ -33,7 +33,7 @@ Each .csv file contains a table with 13 columns with varying data types as shown
 ## Process:
 >In this phase, we will clean and transform data while maintaining the data’s integrity. Documenting the data-cleaning process is essential to keep track of the changes made to the dataset.
 
-Here are the steps that I did during this phase
+Here are the steps that I followed during this phase:
 1.  Combined all the tables into one data table
 2.	Check for null and duplicates
 3.	Cleaned the data
