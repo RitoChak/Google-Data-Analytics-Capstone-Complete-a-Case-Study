@@ -2,7 +2,7 @@
 
 Welcome!
 
-This is my capstone project for Google's Data Analytics Professional Certificate. Presented in the final course, it is used to culminate and showcase all that has been learned throughout this program into a case study analysis. The case study will lay out a real-world business problem to be tackled using the 6 Phase Analysis methodology (Ask, Prepare, Process, Analyze, Share, Act) that has been a focal point of the program.
+This is my capstone project for Google's Data Analytics Professional Certificate. Presented in the final course, it is used to culminate and showcase all that has been learned throughout this program into a case study analysis. The case study lays out a real-world business problem to be tackled using the 6 Phase Analysis methodology (Ask, Prepare, Process, Analyze, Share, Act) that has been a focal point of the program.
 
 Working as a data analyst within Cyclistic's marketing team, I am given the role of reporting key insights into how customers with annual subscriptions differ from customers purchasing single ride/daily passes in order to help craft and implement a targeted marketing strategy to convert these casual customers to annual Cyclistic members. 
 
