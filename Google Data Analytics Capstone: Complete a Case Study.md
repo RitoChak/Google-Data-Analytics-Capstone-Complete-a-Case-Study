@@ -3,11 +3,43 @@
 
 ## Introduction
 
+
+### About the company:
 Cyclistic: A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. 
 
+### Scenario:
+I am a junior data analyst working in the marketing analyst team at Cyclistic. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, my team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, my team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so we must be backed up with compelling data insights and professional data visualizations.
 
-## Process
-**Tool**: Google Bigquery is used to combine the total 12 .csv files into one dataset.
+### Business Task
+Explore how annual members and casual riders utilize Cyclistic bikes to uncover valuable insights into their distinct preferences and patterns of usage and make data-driven strategic marketing decisions for Cyclistic.
+
+### Data Structure
+Each .csv file contains a table with 13 columns with varying data types as shown below. Each column stands for a field that describes how people use Cyclistic's bike-sharing service. Each row represents an observation with the details of every ride.
+
+- ride_id = col_character(),
+- rideable_type = col_character(),
+- started_at = col_datetime(format = ""),
+- ended_at = col_datetime(format = ""),
+- start_station_name = col_character(),
+- start_station_id = col_character(),
+- end_station_name = col_character(),
+- end_station_id = col_character(),
+- start_lat = col_double(),
+- start_lng = col_double(),
+- end_lat = col_double(),
+- end_lng = col_double(),
+- member_casual = col_character()
+
+## Process:
+>In this phase, we will clean and transform data while maintaining the data’s integrity. Documenting the data-cleaning process is essential to keep track of the changes made to the dataset.
+
+Here are the steps that I did during this phase
+1.  Combined all the tables into one data table
+2.	Check for null and duplicates
+3.	Cleaned the data
+4.	Additional columns and data transformation
+5.	Extract data for analysis
+
 
 #### Data Combination : 
 
