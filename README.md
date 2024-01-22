@@ -6,6 +6,8 @@ This is my capstone project for Google's Data Analytics Professional Certificate
 
 Working as a data analyst within Cyclistic's marketing team, I am given the role of reporting key insights into how customers with annual subscriptions differ from customers purchasing single ride/daily passes in order to help craft and implement a targeted marketing strategy to convert these casual customers to annual Cyclistic members. 
 
+
+![CYCLISTIC_Dashboard](TABLEAU/CYC.png)
 ## About the company:
 Cyclistic: A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike.
 
@@ -32,7 +34,7 @@ To check the step by step data cleaning and analysis process, [click here.](http
 
 ## Tableau Dashboard for visualization:
 
-![CYCLISTIC_Dashboard](https://github.com/RitoChak/Google-Data-Analytics-Capstone-Complete-a-Case-Study/blob/main/TABLEAU/CYCLISTIC_DASHBOARD.png?raw=true)
+![CYCLISTIC_Dashboard](TABLEAU/CYCLISTIC_DASHBOARD.png)
 
 To see this dashboard in detail : [Click here](https://public.tableau.com/views/CYCLISTICCASESTUDY2023/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
